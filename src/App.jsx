@@ -4,8 +4,6 @@ import Home from './pages/Home';
 import Doctors from './pages/Doctors';
 import Login from './pages/Login';  
 import About from './pages/About';
-import Contact from './pages/contact';
-import Myprofile from './pages/Myprofile';
 import MyAppointment from './pages/MyAppointment';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
